@@ -1,4 +1,4 @@
-package com.github.diogocqr.citiesapi.repository;
+package com.github.diogocqr.citiesapi.countries.repository;
 
 import com.github.diogocqr.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;

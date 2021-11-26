@@ -1,7 +1,7 @@
-package com.github.diogocqr.citiesapi;
+package com.github.diogocqr.citiesapi.countries;
 
 import com.github.diogocqr.citiesapi.countries.Country;
-import com.github.diogocqr.citiesapi.repository.CountryRepository;
+import com.github.diogocqr.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
